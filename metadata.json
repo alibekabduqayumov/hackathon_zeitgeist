@@ -1,0 +1,8 @@
+{
+  "name": "Zeitgeist — B2B Market Intelligence & Arbitrage Engine",
+  "description": "AI-powered B2B Market Intelligence Engine that detects regional price anomalies, calculates arbitrage profitability with logistics & fee modeling, ranks trade opportunities, and generates AI explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
